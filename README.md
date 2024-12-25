@@ -24,7 +24,7 @@ For a closer look at my qualifications, click [here](https://drive.google.com/fi
 - **B.Tech in Electronics and Communication Engineering** : Reva University, Bengaluru, Karnataka, India (2017-2021)
 
 ## Certificates
-- [Microsoft Azure Fundamentals]
+- [Microsoft Azure Fundamentals](https://drive.google.com/file/d/1JdTLX6dg53gP92q0xW2AJGOihuUXH-kM/view?usp=sharing)
 - [Data Analytics Consulting by KPMG]
 - [Full stack development]
 - [IOT Applications]
