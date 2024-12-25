@@ -20,8 +20,8 @@ For a closer look at my qualifications, click [here](https://drive.google.com/fi
 
 ## Education
 
-**M.Engg in Business Intelligence and Data Analytics** : University of Applied Sciences Emden/Leer, Lower Saxony, Germany (2024-2026)
-**B.Tech in Electronics and Communication Engineering** : Reva University, Bengaluru, Karnataka, India (2017-2021)
+- **M.Engg in Business Intelligence and Data Analytics** : University of Applied Sciences Emden/Leer, Lower Saxony, Germany (2024-2026)
+- **B.Tech in Electronics and Communication Engineering** : Reva University, Bengaluru, Karnataka, India (2017-2021)
 
 ## Certificates
 
