@@ -37,8 +37,8 @@ For a closer look at my qualifications, click [here](https://drive.google.com/fi
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/manoj-kumar-p-450b641a5/)
-- Email ID pkj.manojkumar@gmail.com
+- [LinkedIn]: https://www.linkedin.com/in/manoj-kumar-p-450b641a5/
+- Email ID: pkj.manojkumar@gmail.com
 
 
 
