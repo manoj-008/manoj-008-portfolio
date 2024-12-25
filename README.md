@@ -3,8 +3,7 @@
 
 ## Table of Contents
 - [About](#about)
-- [Portfolio Projects](#portfolio projects)
-
+- [Portfolio Projects](portfolio projects)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
@@ -16,6 +15,12 @@ Moin ! I am an early professional actively seeking opportunities to equip and ed
 With a strong foundation in data visualization tools like Tableau and Power BI, as well as programming in Python, I am eager to transition into a more technical role, focusing on data-driven solutions to complex problems.
 
 For a closer look at my qualifications, click [here](https://drive.google.com/file/d/1rvCAykaBfM0SIZbFuzyyCUJcZXFIykZc/view?usp=sharing) to view my resume.
+
+## Portfolio Projects
+- Business Performance Analytics: worked on an Analytics dashboard for an FMCG client using MS Excel
+
+
+
 
 
 ## Education
