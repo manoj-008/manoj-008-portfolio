@@ -14,7 +14,7 @@ Moin! Ich bin ein Berufsanfänger, der aktiv nach Möglichkeiten sucht, sich mit
 
 Ich verfüge über eine solide Grundlage in Datenvisualisierungstools wie Tableau und Power BI sowie in der Programmierung in Python und freue mich darauf, in eine eher technische Rolle zu wechseln und mich auf datengesteuerte Lösungen für komplexe Probleme zu konzentrieren.
 
-Um einen genaueren Blick auf meine Qualifikationen zu werfen, klicken Sie [hier] (https://drive.google.com/file/d/1rvCAykaBfM0SIZbFuzyyCUJcZXFIykZc/view?usp=sharing) , um meinen Lebenslauf zu sehen.
+Um einen genaueren Blick auf meine Qualifikationen zu werfen, klicken Sie [hier](https://drive.google.com/file/d/1rvCAykaBfM0SIZbFuzyyCUJcZXFIykZc/view?usp=sharing) , um meinen Lebenslauf zu sehen.
 
 ## Portfolio Projects
 - Business Performance Analytics: worked on an Analytics dashboard for an FMCG client using MS Excel
