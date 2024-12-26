@@ -1,4 +1,4 @@
-# Manoj Kumar P - Data-Analytics-Portfolio
+# Manoj Kumar P - Daten-Analytik-Portfolio
 
 
 ## Inhaltsübersicht
