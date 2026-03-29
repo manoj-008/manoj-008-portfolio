@@ -76,7 +76,7 @@ My repositories include data analytics projects, forecasting and time series wor
 
 ## Education
 
-**M.Sc. in Business Intelligence and Data Analytics**
+**M.Engg. in Business Intelligence and Data Analytics**
 Hochschule Emden/Leer, Germany
 
 **B.Tech. in Electronics and Communication Engineering**
