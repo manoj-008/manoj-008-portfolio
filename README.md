@@ -1,5 +1,9 @@
 # Hi, I'm Manoj Kumar Prabhakaran
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kumar-prabhakaran-450b641a5)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/manoj-008)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=manoj-008.manoj-008)
+
 I'm currently pursuing a Master's in Business Intelligence and Data Analytics at Hochschule Emden/Leer in Germany. Before coming here, I spent a few years working in industry — first as an Associate Software Engineer, and then as an Operations Associate Analyst — where I got my hands on real business data, operational KPIs, and the kind of reporting work that actually makes it into dashboards and weekly reviews.
 
 My interest sits somewhere between business understanding and technical implementation. I find it genuinely useful to know not just how to build something, but why it matters to the people who will use it. Most of what I work on involves turning operational or historical data into something structured and readable — whether that is a dashboard, a forecast, or a plain analytical summary.
@@ -17,16 +21,29 @@ Right now, I am working on building a portfolio that reflects both sides of that
 ## What I work with
 
 **Programming and analysis**
-Python, SQL, Excel, and R (still learning)
 
-**Analytics and modelling**
-KPI design, trend analysis, anomaly detection, time series analysis, forecasting, and basic statistical methods
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 **Visualisation and BI tools**
-Tableau, Power BI, Streamlit, and Matplotlib
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 
 **Workflow and tools**
-Pandas, NumPy, Jupyter Notebook, Git, and basic ETL processes
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Analytics focus areas**
+
+KPI design · Trend analysis · Anomaly detection · Time series analysis · Forecasting · Statistical analysis
 
 ---
 
@@ -48,14 +65,11 @@ I use my GitHub to document what I am learning in machine learning — mostly pr
 
 ## Selected projects
 
-**US Car Sales Forecasting and Predictive Analysis**
-A forecasting project built with Python, Pandas, SARIMA, and Streamlit. It analyses historical automotive sales data and produces predictions through a simple interactive dashboard.
-
-**FMCG Performance Analytics**
-An analytics project using Python, SQL, and Tableau to track category and regional performance, identify where things are slowing down, and support decision-making with structured data views.
-
-**Streamlit Data Applications**
-A set of small interactive apps that make analytics outputs and forecasts more accessible through straightforward user interfaces.
+| Project | Tools | Description |
+|---|---|---|
+| **US Car Sales Forecasting** | Python, Pandas, SARIMA, Streamlit | Forecasting project analysing historical automotive sales trends with an interactive prediction dashboard |
+| **FMCG Performance Analytics** | Python, SQL, Tableau | Category and regional performance tracking, bottleneck identification, and decision support views |
+| **Streamlit Data Applications** | Python, Streamlit | Small interactive apps that make analytics outputs and forecasts accessible through simple interfaces |
 
 ---
 
@@ -76,25 +90,21 @@ My repositories include data analytics projects, forecasting and time series wor
 
 ## Education
 
-**M.Engg. in Business Intelligence and Data Analytics**
-Hochschule Emden/Leer, Germany
-
-**B.Tech. in Electronics and Communication Engineering**
-Reva University, India
+| Degree | Institution |
+|---|---|
+| M.Sc. in Business Intelligence and Data Analytics | Hochschule Emden/Leer, Germany |
+| B.Tech. in Electronics and Communication Engineering | Reva University, India |
 
 ---
 
 ## Languages
 
-- English (C1)
-- German (B1)
-- Tamil (Native)
+| Language | Level |
+|---|---|
+| English | C1 |
+| German | B1 |
+| Tamil | Native |
 
 ---
-
-## Connect with me
-
-- [LinkedIn](https://linkedin.com/in/manoj-kumar-prabhakaran-450b641a5)
-- [GitHub](https://github.com/manoj-008)
 
 Thanks for visiting. If something here looks relevant to what you are working on, feel free to reach out.
